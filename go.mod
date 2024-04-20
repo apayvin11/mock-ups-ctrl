@@ -12,6 +12,6 @@ require (
 	github.com/goburrow/modbus v0.1.0
 	github.com/goburrow/serial v0.1.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/tbrandon/mbserver v0.0.0-20231208015628-36eb59221ac2 // indirect
+	github.com/tbrandon/mbserver v0.0.0-20231208015628-36eb59221ac2
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
