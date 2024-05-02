@@ -1,1 +1,1 @@
-modbus_server_addr_port = "localhost:1502"
+modbus_addr = "localhost:1502"

@@ -1,4 +1,4 @@
-package mockctrl
+package model
 
 import (
 	"log"
@@ -7,7 +7,7 @@ import (
 )
 
 type Config struct {
-	ModbusServerAddrPort string `toml:"modbus_server_addr_port"`
+	ModbusAddr string `toml:"modbus_addr"`
 }
 
 func NewConfig(configPath string) *Config {
