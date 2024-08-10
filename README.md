@@ -34,3 +34,5 @@ float32 big endian byte order
 | 0x0000   | UPS in Battery Mode  
 | 0x0001   | Low battery          
 | 0x0002   | Overload             
+
+![scheme](resources/scheme.png)
