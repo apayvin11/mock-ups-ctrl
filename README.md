@@ -1,7 +1,9 @@
 # MOCK-UPS-CTRL
 ## Description
-mock ups controller, modbus server
-modbus over tcp only, default port 1502 (see config)
+mock ups controller  
+this is a simple modbus slave  
+modbus over tcp only  
+default port 1502 (see config)  
 # Modbus register map
 float32 big endian byte order
 ## InputRegisters:   
